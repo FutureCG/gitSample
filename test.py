@@ -6,3 +6,4 @@
 
 def main():
     print 'hollo world!'
+    print 'hello git!'
